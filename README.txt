@@ -1,0 +1,1 @@
+Red Rooster Diner static Vercel package. Upload contents of this folder. No npm install or build command required. Images are embedded in index.html and also included in assets/.
